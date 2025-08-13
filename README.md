@@ -88,3 +88,21 @@ Se utilizará **Trello** como herramienta de colaboración y gestión de tareas,
 - **Informe detallado** con hallazgos y posibles causas de la evasión.
 - **Dataset limpio** listo para análisis predictivo.
 - **Visualizaciones** y métricas clave extraídas del análisis.
+
+---
+
+## 🙌 Créditos
+Este proyecto se desarrolló tomando como base el código compartido por **[Miguel Toro]**, a quien agradezco por el aporte inicial en la estructura y el enfoque del análisis.  
+Los ajustes, adaptaciones y conclusiones presentadas corresponden a mi trabajo personal para cumplir con los objetivos del desafío **Challenge Telecom X**.
+
+---
+
+## 📜 Licencia
+Este proyecto se publica con fines educativos y de práctica en análisis de datos.  
+Puedes utilizar y modificar el contenido citando la fuente original.
+
+---
+
+## 👤 Autor
+**Edwin Berrio M.**  
+Analista de datos en formación | Enfoque en ETL, EDA y visualización de datos con Python.
